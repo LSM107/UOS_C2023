@@ -18,4 +18,5 @@ int main(void) {
 	scanf_s("%s", department, sizeof(department));
 	
 	printf("\n\n- 이름 : %s\n- 생년월일 : %d\n- 학번 : %d\n- 학과명 : %s\n", name, birth_date, student_id, department);
+
 }
